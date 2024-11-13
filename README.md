@@ -15,5 +15,6 @@ This project utilizes several modern technologies to enhance the user experience
 
 - **React**: To build the interactive user interface.
 - **Redux**: For state management.
+- **Firebase**: For store data and Auth.
 - **SweetAlert2**: For interactive alerts.
 - **Axios**: For fetching data from the API.
